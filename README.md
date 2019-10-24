@@ -7,8 +7,9 @@
 
 ## My Blog
 
-Think ML - https://medium.com/@sahusudeesh/python-libraries-for-machine-learning-basics-764b0aebb721
-
+Libraries for ML - https://medium.com/@sahusudeesh/python-libraries-for-machine-learning-basics-764b0aebb721
+ML and difference with respect to Deep Learning and AI- 
+https://medium.com/@sahusudeesh/what-is-machine-learning-8dbfeed506e4
 ## Course Overview
 
 | Date                        |                                    Topic                                    | Slides | Notes |
