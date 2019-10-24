@@ -7,7 +7,7 @@
 
 ## My Blog
 
-Think ML - https://goodboyanush.github.io/
+Think ML - https://medium.com/@sahusudeesh/python-libraries-for-machine-learning-basics-764b0aebb721
 
 ## Course Overview
 
