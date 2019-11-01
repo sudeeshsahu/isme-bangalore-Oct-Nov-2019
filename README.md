@@ -6,10 +6,10 @@
   - **Who**: Anush Sankaran
 
 ## My Blog
-
-Libraries for ML - https://medium.com/@sahusudeesh/python-libraries-for-machine-learning-basics-764b0aebb721
-ML and difference with respect to Deep Learning and AI- 
-https://medium.com/@sahusudeesh/what-is-machine-learning-8dbfeed506e4
+Basics of ML-https://medium.com/@sahusudeesh/basics-of-machine-learning-1b326a6f0fc1
+Linear vs Logistic Regression-https://medium.com/@sahusudeesh/linear-vs-logistic-regression-e9aaaaaffaab
+BAsics of Neural Networks- https://medium.com/@sahusudeesh/basics-of-neural-networks-3d638f9710ab
+Code book done
 ## Course Overview
 
 | Date                        |                                    Topic                                    | Slides | Notes |
