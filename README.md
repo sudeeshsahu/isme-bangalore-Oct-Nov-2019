@@ -11,7 +11,7 @@ Linear vs Logistic Regression-https://medium.com/@sahusudeesh/linear-vs-logistic
 BAsics of Neural Networks- https://medium.com/@sahusudeesh/basics-of-neural-networks-3d638f9710ab
 Code book done
 
-https://github.com/sudeeshsahu/Mid_term-assignment--- the repository for the mid-term assignment
+the repository for the mid-term assignment: https://github.com/sudeeshsahu/Mid_term-assignment
 
 ## Course Overview
 
